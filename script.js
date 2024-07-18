@@ -1,4 +1,4 @@
-const arr = [2, 11, 34, 65, 41, 8, 26, 12, 9, 54];
+const arr = [2, 11, 34, 65, 41, 8, 26, 12, 9, 54, 43];
 const newArr = [];
 
 for(let i = 0; i < arr.length; i++) {
@@ -8,9 +8,6 @@ for(let i = 0; i < arr.length; i++) {
 }
 
 console.log(newArr);
-
-
-
 
 
 
